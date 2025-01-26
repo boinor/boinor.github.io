@@ -1,17 +1,18 @@
-# Source for https://www.poliastro.space
+# Source for https://www.boinor.space
 
-This repository contains the source for https://www.poliastro.space/.
+This repository contains the source for https://www.boinor.space/.
 
 _Based on the wonderful job by Jake Vanderplas https://github.com/jakevdp/jakevdp.github.io-source (MIT License)_
+_Also based on the wonderful job by Juan Luis Cano and poliastro development team. (MIT License)_
 
-[![poliastro website CI](https://github.com/poliastro/poliastro.github.io/actions/workflows/main.yml/badge.svg)](https://github.com/poliastro/poliastro.github.io/actions/workflows/main.yml)
+[![boinor website CI](https://github.com/boinor/boinor.github.io/actions/workflows/main.yml/badge.svg)](https://github.com/boinor/boinor.github.io/actions/workflows/main.yml)
 
 ## Building the website
 
 Clone the repository & make sure submodules are included
 
 ```
-$ git clone https://github.com/poliastro/poliastro.github.io-source.git
+$ git clone https://github.com/boinor/boinor.github.io-source.git
 $ git submodule update --init --recursive
 ```
 

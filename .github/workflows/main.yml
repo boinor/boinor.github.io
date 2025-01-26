@@ -1,4 +1,4 @@
-name: poliastro website CI
+name: boinor website CI
 
 on:
   push:
