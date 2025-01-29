@@ -121,8 +121,8 @@ pytz==2020.5
     # via
     #   feedgenerator
     #   pelican
-pyzmq==21.0.1
-    # via jupyter-client
+#pyzmq==21.0.1
+#    # via jupyter-client
 six==1.15.0
     # via
     #   bleach
