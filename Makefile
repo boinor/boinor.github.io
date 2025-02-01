@@ -127,7 +127,7 @@ publish-to-github: publish
 	git push -v $(GITHUB_PAGES_REMOTE) blog-build:$(GITHUB_PAGES_BRANCH)
 
 publish-to-github-force: publish
-	ghp-import -v -n -m "publish-to-github-force from $(GIT_COMMIT_HASH)" -b blog-build $(OUTPUTDIR)
+	ghp-import -n -m "publish-to-github-force from $(GIT_COMMIT_HASH)" -b blog-build $(OUTPUTDIR)
 	git push -f $(GITHUB_PAGES_REMOTE) blog-build:$(GITHUB_PAGES_BRANCH)
 
 .PHONY: html help clean regenerate serve serve-global devserver stopserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
