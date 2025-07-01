@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>boinor - Thorsten Alteholz</title><link>https://www.boinor.space/</link><description></description><lastBuildDate>Tue, 23 Jul 2024 20:00:00 +0200</lastBuildDate><item><title>new fork of poliastro</title><link>https://www.boinor.space/blog/2024/07/23/new-fork-of-poliastro/</link><description>&lt;p&gt;Dear community,&lt;/p&gt;
+&lt;p&gt;when looking at recent RM-bugs to remove Debian packages from the archive,
+I saw the removal request for poliastro. I became curious and didn't want 
+to see this software go.&lt;/p&gt;
+&lt;p&gt;So I really hope to be able to revive this project again under the name boinor = BOdies IN …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Thorsten Alteholz</dc:creator><pubDate>Tue, 23 Jul 2024 20:00:00 +0200</pubDate><guid isPermaLink="false">tag:www.boinor.space,2024-07-23:/blog/2024/07/23/new-fork-of-poliastro/</guid><category>articles</category><category>boinor</category></item></channel></rss>

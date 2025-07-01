@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>boinor</title><link href="https://www.boinor.space/" rel="alternate"></link><link href="https://www.boinor.space/feeds/all.atom.xml" rel="self"></link><id>https://www.boinor.space/</id><updated>2024-07-23T20:00:00+02:00</updated><entry><title>new fork of poliastro</title><link href="https://www.boinor.space/blog/2024/07/23/new-fork-of-poliastro/" rel="alternate"></link><published>2024-07-23T20:00:00+02:00</published><updated>2024-07-23T20:00:00+02:00</updated><author><name>Thorsten Alteholz</name></author><id>tag:www.boinor.space,2024-07-23:/blog/2024/07/23/new-fork-of-poliastro/</id><summary type="html">&lt;p&gt;Dear community,&lt;/p&gt;
+&lt;p&gt;when looking at recent RM-bugs to remove Debian packages from the archive,
+I saw the removal request for poliastro. I became curious and didn't want 
+to see this software go.&lt;/p&gt;
+&lt;p&gt;So I really hope to be able to revive this project again under the name boinor = BOdies IN …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Dear community,&lt;/p&gt;
+&lt;p&gt;when looking at recent RM-bugs to remove Debian packages from the archive,
+I saw the removal request for poliastro. I became curious and didn't want 
+to see this software go.&lt;/p&gt;
+&lt;p&gt;So I really hope to be able to revive this project again under the name boinor = BOdies IN ORbit.&lt;/p&gt;</content><category term="articles"></category><category term="boinor"></category></entry><entry><title>Jorge Martinez steps down as maintainer of the project</title><link href="https://www.boinor.space/blog/2023/08/22/jorge-martinez-steps-down/" rel="alternate"></link><published>2023-08-22T21:00:00+02:00</published><updated>2023-08-22T21:00:00+02:00</updated><author><name>Jorge Martinez Garrido</name></author><id>tag:www.boinor.space,2023-08-22:/blog/2023/08/22/jorge-martinez-steps-down/</id><summary type="html">&lt;p&gt;Dear community,&lt;/p&gt;
+&lt;p&gt;I want to share with you that, due to professional commitments, I have made the
+decision to step down from my role as a maintainer of the boinor project.&lt;/p&gt;
+&lt;p&gt;Rather than delving into the specific circumstances that led to this choice, I'd
+like to take this opportunity to …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Dear community,&lt;/p&gt;
+&lt;p&gt;I want to share with you that, due to professional commitments, I have made the
+decision to step down from my role as a maintainer of the boinor project.&lt;/p&gt;
+&lt;p&gt;Rather than delving into the specific circumstances that led to this choice, I'd
+like to take this opportunity to offer inspiration to new developers who are
+considering joining the vibrant world of free and open-source software.&lt;/p&gt;
+&lt;p&gt;Looking back to December 2018, shortly after the holiday season, I can vividly
+recall the excitement of having &lt;a href="https://github.com/boinor/boinor/pull/491"&gt;my first pull request for
+boinor&lt;/a&gt; merged. It was an
+exhilarating moment, as it marked the first time in months that I truly felt my
+contributions were making a meaningful impact, being valued and utilized by
+others.&lt;/p&gt;
+&lt;p&gt;Throughout my journey, &lt;a href="https://github.com/astrojuanlu"&gt;Juan Luis Cano Rodríguez&lt;/a&gt;,
+an exceptional mentor, has provided invaluable guidance. His meticulous code
+reviews have been a wellspring of insights that greatly enriched my learning
+experience. I extend my heartfelt gratitude for the generous time and effort he
+invested in teaching and mentoring me.&lt;/p&gt;
+&lt;p&gt;My tenure with boinor not only allowed me to develop astro-related skills but
+also opened doors to larger opportunities. As a recipient of the 
+&lt;a href="https://summerofcode.withgoogle.com/archive/2019/projects/4887352839766016"&gt;Google Summer of Code&lt;/a&gt;,
+I had the privilege of receiving compensation for my software development
+contributions, marking a significant milestone in my journey, especially as a
+student at that time.&lt;/p&gt;
+&lt;p&gt;I devoted countless nights to coding and learning, expanding my horizons beyond
+the realm of astrophysics. One such passion is my fascination with Linux, a
+topic that I find equally captivating.&lt;/p&gt;
+&lt;p&gt;As I take this step back, I encourage you all to consider embracing open-source
+projects like boinor. The journey is rewarding, providing not only technical
+growth but also a strong sense of community and purpose. New contributors, your
+efforts can truly make a difference, just as mine did when I started on this
+remarkable journey.&lt;/p&gt;
+&lt;p&gt;With gratitude and optimism,&lt;/p&gt;
+&lt;p&gt;Jorge Martinez&lt;/p&gt;</content><category term="articles"></category><category term="boinor"></category></entry></feed>

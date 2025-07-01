@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>boinor - Thorsten Alteholz</title><link href="https://www.boinor.space/" rel="alternate"></link><link href="https://www.boinor.space/feeds/thorsten-alteholz.atom.xml" rel="self"></link><id>https://www.boinor.space/</id><updated>2024-07-23T20:00:00+02:00</updated><entry><title>new fork of poliastro</title><link href="https://www.boinor.space/blog/2024/07/23/new-fork-of-poliastro/" rel="alternate"></link><published>2024-07-23T20:00:00+02:00</published><updated>2024-07-23T20:00:00+02:00</updated><author><name>Thorsten Alteholz</name></author><id>tag:www.boinor.space,2024-07-23:/blog/2024/07/23/new-fork-of-poliastro/</id><summary type="html">&lt;p&gt;Dear community,&lt;/p&gt;
+&lt;p&gt;when looking at recent RM-bugs to remove Debian packages from the archive,
+I saw the removal request for poliastro. I became curious and didn't want 
+to see this software go.&lt;/p&gt;
+&lt;p&gt;So I really hope to be able to revive this project again under the name boinor = BOdies IN …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Dear community,&lt;/p&gt;
+&lt;p&gt;when looking at recent RM-bugs to remove Debian packages from the archive,
+I saw the removal request for poliastro. I became curious and didn't want 
+to see this software go.&lt;/p&gt;
+&lt;p&gt;So I really hope to be able to revive this project again under the name boinor = BOdies IN ORbit.&lt;/p&gt;</content><category term="articles"></category><category term="boinor"></category></entry></feed>
