@@ -1,7 +1,7 @@
 Welcome to boinor
-====================
+=================
 
-:title: Welcome to boinor
+
 :slug: home
 :template: page
 :index: 0

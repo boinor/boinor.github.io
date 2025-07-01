@@ -18,6 +18,8 @@ $ git submodule update --init --recursive
 
 _(Activate the python virtual environment before proceeding)_
 
+Install pip-tools `pip install pip-tools`
+In case it is needed, rebuild the requitements.txt (maybe remove the old version and start from scratch).
 Install the required packages using `pip install -r requirements.txt`
 
 Build the html and serve locally:
@@ -26,6 +28,11 @@ Build the html and serve locally:
 $ make html
 $ make serve
 $ open http://localhost:8000
+or
+$ make html
+$ make serve-global SERVER=1.2.3.4
+$ open http://1.2.3.4:8000
+
 ```
 
 Deploy to github pages
